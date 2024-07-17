@@ -1,0 +1,19 @@
+.login {
+    background-color: beige;
+    height: 100%;
+    // display: flex;
+    // align-items: center;
+    // justify-content: center;
+
+    .login-botton {
+        margin-top: 50%;
+        margin-bottom: 100px;
+        margin-left: 50%;
+        transform: translateX(-100px);
+        background-color: orange;
+        color: beige;
+        height: 50px;
+        width: 200px;
+        border-radius: 25px;
+    }
+}
